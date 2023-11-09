@@ -5,7 +5,16 @@
 
 ## Table of Content:
 - [Proect Overview](#project-overview)
-- [Tools Used](#tools-used:)
+- [Tools Used](#tools-used)
+- [Top Insights](#top-insight)
+- [Insight Conclusion](#insight-conclusion)
+- [Recomendation](#recomendation)
+- [Specific Suggetion](#specific-suggetion)
+- [Advance Recomendation](#advance-recomendation)
+- [Important Links](#important-links)
+- [Video Presentation](#video-presentation)
+- [Stakholders](#stakholders)
+
 ## Project Overview
 
 Telangana is one of the fastest-growing states in India, and it has an open data policy. This means that all of the state's data is published online, making it easy to analyze and identify trends.
@@ -76,7 +85,7 @@ sales , maximum employment generated  and maximum investment has taken place.
 
 #
 
-## Specific Suggtion:
+## Specific Suggetion:
 1. Promote e-governance in rural areas. This will make it easier for people in rural areas to access government services.
 
 2. Implement programs for women and children in rural areas. This will improve the standard of living of women and children in rural areas.
